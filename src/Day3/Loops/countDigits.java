@@ -14,7 +14,6 @@ public class countDigits {
 
         do {
             num = num / 10;
-            System.out.println(num);
             count++;
         } while (num != 0);
 
