@@ -26,8 +26,8 @@ Each day includes:
 | 5 | 15 Aug 2025 | Arrays & Strings | ✅ Completed | `Day5_Strings` |
 | 6 | 27 Aug 2025 | Methods in Java | ✅ Completed | `Day6_Methods` |
 | 7 | 30 Sep 2025 | OOP Basics (Classes & Objects) | ✅ Completed | `Day7_OOP_Basics` |
-| 8 | 7 Oct 2025 | Inheritance & Polymorphism | 🔄 In Progress | `Day8_Inheritance` |
-| 9 | 8 Oct 2025 | Abstraction & Interfaces | ⏳ Pending | `Day9_Abstraction` |
+| 8 | 7 Oct 2025 | Inheritance & Polymorphism | ✅ Completed | `Day8_Inheritance` |
+| 9 | 8 Oct 2025 | Abstraction & Interfaces | 🔄 In Progress | `Day9_Abstraction` |
 | 10 | 9 Oct 2025 | Exception Handling | ⏳ Pending | `Day10_Exceptions` |
 | ... | ... | ... | ... | ... |
 | 45 | TBD | Final Java Project & Placement Preparation | ⏳ Pending | `Day45_FinalProject` |
