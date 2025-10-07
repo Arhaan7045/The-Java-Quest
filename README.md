@@ -19,11 +19,11 @@ Each day includes:
 
 | Day | Date | Topic | Status | Repository Folder |
 |-----|------|--------|---------|------------------|
-| 1 | 11 Aug 2025 | Java Basics & Input/Output | ✅ Completed | `Day1_Basics` |
-| 2 | 12 Aug 2025 | Data Types & Variables | ✅ Completed | `Day2_DataTypes` |
-| 3 | 13 Aug 2025 | Conditional Statements | ✅ Completed | `Day3_Conditions` |
-| 4 | 14 Aug 2025 | Loops & Iterations | ✅ Completed | `Day4_Loops` |
-| 5 | 15 Aug 2025 | Arrays & Strings | ✅ Completed | `Day5_Arrays_Strings` |
+| 1 | 11 Aug 2025 | Java Basics & Input/Output | ✅ Completed | `Day1_Basics_DataTypes` |
+| 2 | 12 Aug 2025 | Data Types & Variables | ✅ Completed | `Day2_Conditions` |
+| 3 | 13 Aug 2025 | Conditional Statements | ✅ Completed | `Day3_Loops` |
+| 4 | 14 Aug 2025 | Loops & Iterations | ✅ Completed | `Day4_Arrays` |
+| 5 | 15 Aug 2025 | Arrays & Strings | ✅ Completed | `Day5_Strings` |
 | 6 | 27 Aug 2025 | Methods in Java | ✅ Completed | `Day6_Methods` |
 | 7 | 30 Sep 2025 | OOP Basics (Classes & Objects) | ✅ Completed | `Day7_OOP_Basics` |
 | 8 | 7 Oct 2025 | Inheritance & Polymorphism | 🔄 In Progress | `Day8_Inheritance` |
@@ -60,8 +60,8 @@ Each day includes:
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile URL]  
-- **GitHub:** [Your GitHub Profile URL]  
+- **LinkedIn:** https://www.linkedin.com/in/arhaan-shaikh-289aa8263/  
+- **GitHub:** https://github.com/Arhaan7045  
 
 ---
 
